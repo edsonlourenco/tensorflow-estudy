@@ -14,7 +14,7 @@ Este repositório contém os materiais e projetos desenvolvidos durante o curso 
 ## Conteúdos e Projetos
 
 ### Lesson 1: Introdução ao TensorFlow
-- [Lesson 1 Notebook](notebooks/l02c01_celsius_to_fahrenheit.ipynb): Introdução aos conceitos básicos do TensorFlow, incluindo a criação de tensores e operações básicas como conversão de Celsius para Fahrenheit.
+- [Lesson 1 Notebook](notebooks/Convert_Fahrenheit_Celsius/l02c01_celsius_to_fahrenheit.ipynb): Introdução aos conceitos básicos do TensorFlow, incluindo a criação de tensores e operações básicas como conversão de Celsius para Fahrenheit.
 
 ## Como preparar o ambiente localmente (opcional):
 
