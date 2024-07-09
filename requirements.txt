@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+pandas
+numpy
+seaborn
+matplotlib
+fastapi
+uvicorn
