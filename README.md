@@ -25,7 +25,7 @@ Caso não queira rodar esses códigos no Google Colab e prefira local, logo abai
     conda create -n mleng python=3.11
     ```
 
-2. Crie o ambiente, recomendo usar o Anaconda ou Miniconda:
+2. Ative o ambiente:
     ```bash
     conda activate mleng
     ```
